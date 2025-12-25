@@ -71,6 +71,7 @@ Pokretanje projekta (lokalno)
 pip install scikit-learn matplotlib jupyter
 2) Pokreni:
 jupyter notebook
+
 3.Otvori notebook:
 mlp_binary_classifier.ipynb ili mlp_multiclass_classifier.ipynb
 
